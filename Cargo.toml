@@ -1,0 +1,9 @@
+[package]
+name = "particle_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+vulkano = "0.35.1"
+vulkano-shaders = "0.35.0"
+winit = "0.30.9"
